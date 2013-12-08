@@ -4948,7 +4948,4 @@
     <!-- time range preference -->
     <string name="start_time_title">Start</string>
     <string name="end_time_title">End</string>
-
-    <!-- Delete apn confirmation dialog message -->
-    <string name="confirm_delete_apn">The APN will be deleted.</string>
 </resources>
